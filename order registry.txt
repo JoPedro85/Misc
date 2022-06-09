@@ -1,0 +1,131 @@
+
+    Order:
+    Prego
+    spinach
+    
+    Order no1:
+    Prego
+    spinach
+    
+    Order no3:
+    Bifana
+    rice
+    
+    Order no5:
+    Prego
+    rice
+    
+    Order no1:
+    Prego
+    spinach
+    
+    Order no1:
+    Prego
+    spinach
+    
+    Order no2:
+    Bifana
+    rice
+    
+    Order no1:
+    Prego
+    spinach
+    
+    Order no2:
+    Prego
+    spinach
+    
+    Order no1:
+    Prego
+    spinach
+    
+    Order no1:
+    Prego
+    spinach
+    
+    Order no1(2022-06-09 21:13:39.059380:
+    Prego
+    spinach
+    
+    Order no1(2022-06-09 21:14:14.027166:
+    Prego
+    spinach
+    
+    Order no1(2022-06-09 21:15:14.724192:
+    Prego
+    spinach
+    
+    Order no1(2022-06-09 21:15:36.396916:
+    Prego
+    spinach
+    
+    Order no1(2022-06-09 21:15:53.715873:
+    Prego
+    spinach
+    
+    Order no1(2022-06-09 21:17:06.795520:
+    Prego
+    spinach
+    
+    Order no1(2022-06-09 21:17:24.723904:
+    Prego
+    spinach
+    
+    Order no1(2022-06-09 21:17:34.683840:
+    Prego
+    spinach
+    
+    Order no1(2022-06-09 21:17:59.627538):
+    Prego
+    spinach
+    
+    Order no1:
+    Prego
+    spinach
+    (2022-06-09 21:18:17.615292)
+    
+    Order no1:
+    Prego
+    rice
+    (2022-06-09 21:34:08.616721)
+    
+    Order no1:
+    Prego
+    spinach
+    (2022-06-09 21:44:49.702223)
+    
+    Order no2:
+    Prego
+    spinach
+    (2022-06-09 21:44:51.535236)
+    
+    Order no3:
+    Prego
+    spinach
+    (2022-06-09 21:44:56.814416)
+    
+    Order no1:
+    Prego
+    rice
+    (2022-06-09 21:46:21.187102)
+    
+    Order no2:
+    Prego
+    spinach
+    (2022-06-09 21:46:28.654272)
+    
+    Order no1:
+    Prego
+    rice
+    (2022-06-09 21:47:45.366677)
+    
+    Order no1:
+    Prego
+    spinach
+    (2022-06-09 21:54:20.177944)
+    
+    Order no2:
+    Prego
+    Tomato rice
+    (2022-06-09 21:54:33.654079)
+    
